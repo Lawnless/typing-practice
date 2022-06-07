@@ -1,2 +1,2 @@
 # typing-practice-html
-Klavyede Hızlı Yazma Testi oyunudur. Javascript kodları üzerine puan sistemi eklendi, eğer isterseniz yazıları 'settings/texts.js' dosya yolu üzerinden değiştirebilirsiniz.
+Its a Fast-Typing Test Game. Points system added in to Javascript codes, if you want to change texts(words) you can change it from 'settings/texts.js' file path.
